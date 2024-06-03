@@ -1,15 +1,51 @@
 # Visual Studio cache directory
 .vs/
+# Visual Studio
+*.CodeAnalysisLog.xml
+*.cache
+*.pdb
+*.obj
+*.exe
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.VC.db
+*.VC.VC.opendb
+*.VC.opendb
+
+# Visual Studio temporary files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.unsuccessfulbuild
+*.ilk
+*.rsrc.res
+*.old
+*.sln.docstates
+*.VC.db
+
+# Directories
+bin/
+obj/
+Debug/
+Release/
 
 ###Rider###
 .idea
 
-users/*
+# Rider project files
+.idea/
 
-bin
+# Rider workspace file
+*.sln.iml
 
-obj
+# Ignore local history (for Rider)
+.local-history/
 
-global.json
-
-Folder.DotSettings.user
+# Ignore auto-generated Rider files
+*.sln.dotSettings.user
