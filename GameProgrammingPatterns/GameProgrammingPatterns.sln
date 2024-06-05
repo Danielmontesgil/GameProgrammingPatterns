@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Command", "Command\Command.vcxproj", "{2569D5BA-C34E-4E5E-9BC6-68BB6DBA5F0C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Flyweight", "Flyweight\Flyweight.vcxproj", "{D8509A7C-4D86-461F-9C32-3960B9C7471D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -18,5 +20,13 @@ Global
 		{2569D5BA-C34E-4E5E-9BC6-68BB6DBA5F0C}.Release|Win32.Build.0 = Release|Win32
 		{2569D5BA-C34E-4E5E-9BC6-68BB6DBA5F0C}.Release|x64.ActiveCfg = Release|x64
 		{2569D5BA-C34E-4E5E-9BC6-68BB6DBA5F0C}.Release|x64.Build.0 = Release|x64
+		{D8509A7C-4D86-461F-9C32-3960B9C7471D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8509A7C-4D86-461F-9C32-3960B9C7471D}.Debug|Win32.Build.0 = Debug|Win32
+		{D8509A7C-4D86-461F-9C32-3960B9C7471D}.Debug|x64.ActiveCfg = Debug|x64
+		{D8509A7C-4D86-461F-9C32-3960B9C7471D}.Debug|x64.Build.0 = Debug|x64
+		{D8509A7C-4D86-461F-9C32-3960B9C7471D}.Release|Win32.ActiveCfg = Release|Win32
+		{D8509A7C-4D86-461F-9C32-3960B9C7471D}.Release|Win32.Build.0 = Release|Win32
+		{D8509A7C-4D86-461F-9C32-3960B9C7471D}.Release|x64.ActiveCfg = Release|x64
+		{D8509A7C-4D86-461F-9C32-3960B9C7471D}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
