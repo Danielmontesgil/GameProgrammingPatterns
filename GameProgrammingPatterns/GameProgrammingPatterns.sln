@@ -6,6 +6,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Flyweight", "Flyweight\Flyw
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Observer", "Observer\Observer.vcxproj", "{0E1E314A-ED6C-4A1B-B8A1-EE49F3F18169}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prototype", "Prototype\Prototype.vcxproj", "{4FC084E5-06C7-482A-A1D5-77513ECB44DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -38,5 +40,13 @@ Global
 		{0E1E314A-ED6C-4A1B-B8A1-EE49F3F18169}.Release|Win32.Build.0 = Release|Win32
 		{0E1E314A-ED6C-4A1B-B8A1-EE49F3F18169}.Release|x64.ActiveCfg = Release|x64
 		{0E1E314A-ED6C-4A1B-B8A1-EE49F3F18169}.Release|x64.Build.0 = Release|x64
+		{4FC084E5-06C7-482A-A1D5-77513ECB44DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FC084E5-06C7-482A-A1D5-77513ECB44DB}.Debug|Win32.Build.0 = Debug|Win32
+		{4FC084E5-06C7-482A-A1D5-77513ECB44DB}.Debug|x64.ActiveCfg = Debug|x64
+		{4FC084E5-06C7-482A-A1D5-77513ECB44DB}.Debug|x64.Build.0 = Debug|x64
+		{4FC084E5-06C7-482A-A1D5-77513ECB44DB}.Release|Win32.ActiveCfg = Release|Win32
+		{4FC084E5-06C7-482A-A1D5-77513ECB44DB}.Release|Win32.Build.0 = Release|Win32
+		{4FC084E5-06C7-482A-A1D5-77513ECB44DB}.Release|x64.ActiveCfg = Release|x64
+		{4FC084E5-06C7-482A-A1D5-77513ECB44DB}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
