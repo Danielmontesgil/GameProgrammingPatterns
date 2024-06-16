@@ -8,6 +8,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Observer", "Observer\Observ
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prototype", "Prototype\Prototype.vcxproj", "{4FC084E5-06C7-482A-A1D5-77513ECB44DB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "State", "State\State.vcxproj", "{A672AD71-85CA-4096-AFE9-A9850130CEE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -48,5 +50,13 @@ Global
 		{4FC084E5-06C7-482A-A1D5-77513ECB44DB}.Release|Win32.Build.0 = Release|Win32
 		{4FC084E5-06C7-482A-A1D5-77513ECB44DB}.Release|x64.ActiveCfg = Release|x64
 		{4FC084E5-06C7-482A-A1D5-77513ECB44DB}.Release|x64.Build.0 = Release|x64
+		{A672AD71-85CA-4096-AFE9-A9850130CEE7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A672AD71-85CA-4096-AFE9-A9850130CEE7}.Debug|Win32.Build.0 = Debug|Win32
+		{A672AD71-85CA-4096-AFE9-A9850130CEE7}.Debug|x64.ActiveCfg = Debug|x64
+		{A672AD71-85CA-4096-AFE9-A9850130CEE7}.Debug|x64.Build.0 = Debug|x64
+		{A672AD71-85CA-4096-AFE9-A9850130CEE7}.Release|Win32.ActiveCfg = Release|Win32
+		{A672AD71-85CA-4096-AFE9-A9850130CEE7}.Release|Win32.Build.0 = Release|Win32
+		{A672AD71-85CA-4096-AFE9-A9850130CEE7}.Release|x64.ActiveCfg = Release|x64
+		{A672AD71-85CA-4096-AFE9-A9850130CEE7}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
